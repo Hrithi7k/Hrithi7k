@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hrithi7k
 - 👀 I’m interested in ...Computers
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...proguider777@gmail.com
 
 <!---
